@@ -23,3 +23,23 @@
 | 15 | Опечатка в слове уровень  | При запуске уровня выше таймера отображается надпись "Уроень"  | 1. Запустить игру и начать уровень <br> 2. Обратить внимание на слово "уровень" <br><br>Ожидаемый результат: Слово написано правильно <br><br> Фактический результат: В слове присутствует опечатка | Тривиальный  | Низкий  | [Опечатка](https://drive.google.com/file/d/1HuAk_ylIIs9D8LjGSFjv3aG8acuinaTn/view?usp=sharing)  | 
 | 16 | Отсутствие обучения  | При первом запуске игры для нового игрока инструкция для новичков может не отображаться, хотя должна запускаться автоматически | Предусловие: Игра запущена впервые или с полностью очищенными данными <br> 1. Запустить игру и начать уровень <br><br> Ожидаемый результат: Инструкция для новичков отображается автоматически и пошагово вводит игрока в процесс игры <br><br> Фактический результат: Обучение не появляется  | Значительный | Высокий  | [Отсутствие обучения](https://drive.google.com/file/d/1OEF9BVMPAMD-SyBPs8xiPl5VDG_zeAkh/view?usp=sharing)  | 
 # <a name="checklist"/> Чек-листы
+| ID  | Название (Title) | Шаги (Steps) | Ожидаемый результат | Статус (Status) |
+| ------------- | ------------- | --- | --- | --- | 
+| 1  | Запуск уровня | 1. Запустить игру <br> 2. Нажать кнопку запуска уровня | Открывается соответствующий уровень. На экране отображаются все необходимые элементы уровня, такие как таймер, изображения для поиска отличий и интерфейс управления | Пройден |
+| 2 | Условие победы  | 1. Запустить игру <br> 2. Начать уровень <br> 3. Найти 5 отличий <br> 4. Убедиться, что таймер еще не закончился| После нахождения всех отличий игра отображает экран пройденного уровня  | Пройден  |
+| 3 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 4 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 5 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 6 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 7 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 8 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 9 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 10 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 11 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 12 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 13 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 14 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 15 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 16 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 17 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 18 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
