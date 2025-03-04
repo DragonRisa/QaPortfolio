@@ -54,10 +54,14 @@
 | ID  | Название (Title) | Результат (Result) | Комментарий (Comment) |
 | ------------- | ------------- |  --- | --- | 
 | 1  | <p align="center"> Общие </p> |  |  |
-| 1.1  | <p class="center"> Изменение портрета героя везде при выборе образа </p> | <p align="center"> Passed </p> |  |
-| 1.2  | <p class="center"> Изменение характеристик персонажа при достижении уровня отношений </p> | <p align="center"> Passed </p> |  |
-| 1.3  | <p class="center"> Открытие новых героев в отношениях </p> | <p align="center"> Failed </p> |  |
-| 1.4  | <p class="center"> Любимые подарки дают больше опыта </p> | <p align="center"> Passed </p> |  |
+| 1.1  | <p align="center"> Изменение портрета героя везде при выборе образа </p> | <p align="center"> Passed </p> |  |
+| 1.2  | <p align="center"> Изменение характеристик персонажа при достижении уровня отношений </p> | <p align="center"> Passed </p> |  |
+| 1.3  | <p align="center"> Открытие новых героев в отношениях </p> | <p align="center"> Failed </p> |  |
+| 1.4  | <p align="center"> Любимые подарки дают больше опыта </p> | <p align="center"> Passed </p> |  |
+| 1.5  | <p align="center"> В каждой категории (синий, фиолетовый, красный) есть по одному любимому подарку </p> | <p align="center"> Passed </p> |  |
+| 1.6  | <p align="center"> Количество необходимых очков в шкале отношений увеличивается с уровнем </p> | <p align="center"> Passed </p> |  |
+| 1.7  | <p align="center"> При достижении 20го уровня выдается образ </p> | <p align="center"> Passed </p> |  |
+| 1.8  | <p align="center"> При достижении 18го уровня появляется анимированное свидание </p> | <p align="center"> Passed </p> |  |
 
 
 # <a name="checklist-regress"/> Чек-лист для регресс-теста
