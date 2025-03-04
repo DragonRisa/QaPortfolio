@@ -54,7 +54,10 @@
 | ID  | Название (Title) | Результат (Result) | Комментарий (Comment) |
 | ------------- | ------------- |  --- | --- | 
 | 1  | <p align="center"> Общие </p> |  |  |
-| 1.1  | <p class="center"> Изменение портрета героя везде при выборе образа </p> | Passed |  |
+| 1.1  | <p class="center"> Изменение портрета героя везде при выборе образа </p> | <p align="center"> Passed </p> |  |
+| 1.2  | <p class="center"> Изменение характеристик персонажа при достижении уровня отношений </p> | <p align="center"> Passed </p> |  |
+| 1.3  | <p class="center"> Открытие новых героев в отношениях </p> | <p align="center"> Failed </p> |  |
+| 1.4  | <p class="center"> Любимые подарки дают больше опыта </p> | <p align="center"> Passed </p> |  |
 
 
 # <a name="checklist-regress"/> Чек-лист для регресс-теста
